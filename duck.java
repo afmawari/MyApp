@@ -16,3 +16,4 @@ Public class duck
     system.out.println("A duck can eat");
   }
 }
+// code
